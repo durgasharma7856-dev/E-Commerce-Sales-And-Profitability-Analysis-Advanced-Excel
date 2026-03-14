@@ -36,7 +36,7 @@ The dataset includes several key columns:
 - **Status:** Current state of the order (Delivered, Cancelled, Returned)
 
 ## 📸 Dashboard Preview
-!
+WhatsApp Image 2026-03-14 at 13.53.15.jpeg
 
 ## 🚀 How to Use
 1. Download the **E-COMMERCE SALES AND PROFITABILITY ANALYSIS.xlsx** file.
