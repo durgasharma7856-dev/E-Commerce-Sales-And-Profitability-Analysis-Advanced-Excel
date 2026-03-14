@@ -34,10 +34,11 @@ The dataset includes several key columns:
 - **Amount & Qty:** Sales value and quantity
 - **Ship-State:** Geographic location of the customer
 - **Status:** Current state of the order (Delivered, Cancelled, Returned)
+___
+## 📊 Dashboard Preview
+![e-commerce Dashboard](images/ecommerce-excel.jpg)
 
-## 📸 Dashboard Preview
-WhatsApp Image 2026-03-14 at 13.53.15.jpeg
-
+---
 ## 🚀 How to Use
 1. Download the **E-COMMERCE SALES AND PROFITABILITY ANALYSIS.xlsx** file.
 2. Open it in **Microsoft Excel (2016 or later recommended)**.
